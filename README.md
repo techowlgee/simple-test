@@ -1,5 +1,5 @@
 # Hello world
-Hello World repositiry for Git tutorial
+Hello World repository for Git tutorial
 This is an example repository for the Git tutorial on
 https://www.techowlgee.com
 
